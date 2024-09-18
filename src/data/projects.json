@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Web Scraper",
+    "imageSrc": "projects/Scraper.png",
+    "description": "Extracts data from website such as latest news headlines.",
+    "skills": ["Python", "CSS", "Web Scrapping Libraries"]
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/Port.png",
+    "description": "A portfolio website for displaying my skills and projects.",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "Figma"]
+  },
+  {
+    "title": "ChatBot",
+    "imageSrc": "projects/Chatbot.png",
+    "description": "Build a code that enabled chatbot to respond to user inputs with pre-defined responses.",
+    "skills": ["Python", "SQL", "RESTful APIs"]
+  }
+]
